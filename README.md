@@ -1,2 +1,3 @@
 # -Character-war
-a game about how to survive longer
+a game about how to survive longer.
+via ytr,hmd
